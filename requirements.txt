@@ -1,0 +1,5 @@
+numpy>=1.26
+matplotlib>=3.8
+cartopy>=0.22
+eccodes>=2.32
+scipy>=1.10
